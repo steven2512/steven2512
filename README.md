@@ -1,6 +1,6 @@
 # Hi, I'm Nguyen Duong
 
-- Final-year bahcelor Of Computer Science and Commerce student at Monash University focused on data analysis and software development.
+- Final-year Bachelor Of Computer Science and Commerce student at Monash University focused on data analysis and software development.
 - I have project experience building end-to-end analytics projects and production-ready applications using real datasets and real systems.
 - I also have job experience at companies like EY, Department Of Education, etc
 
