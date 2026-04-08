@@ -78,18 +78,10 @@ Experience includes data collection, validation, reporting, systems support, and
 
 ---
 
-## Current Focus
-- Building stronger end-to-end analytics projects  
-- Improving business-facing dashboards and reporting  
-- Deepening SQL and Power BI expertise  
-- Continuing to ship production-ready applications  
-
----
-
 ## Connect
 - LinkedIn: https://www.linkedin.com/in/nguyenduong251202  
 - GitHub: https://github.com/steven2512  
 
 ---
 
-*Open to Data Analyst, Business Intelligence, and data-focused software roles.*
+*Open to Data Analyst, Business Intelligence, and any Full-stack, Front-end, Back-end developer roles*
