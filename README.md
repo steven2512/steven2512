@@ -24,7 +24,7 @@ End-to-end delivery of a real-world corporate website for a Vietnamese manufactu
 - Designed the visual direction, content layout, page structure, and blog/news content publishing system across company profile, facilities, products, news, and contact pages
 - Supported a real operating business website with public-facing product catalog, partner/company presentation, and contact/service flows
 
-🔗 [Website](https://daiphatphat.com)
+🔗 [daiphatphat.com](https://daiphatphat.com)
 
 ---
 
