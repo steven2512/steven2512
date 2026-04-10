@@ -1,41 +1,51 @@
 # Hi, I'm Nguyen Duong
 
-- Final-year Bachelor Of Computer Science and Commerce student at Monash University focused on data analysis and software development.
-- I have project experience building end-to-end analytics projects and production-ready applications using real datasets and real systems.
-- I also have job experience at companies like EY, Department Of Education, etc
+Final-year Computer Science and Commerce student at Monash University focused on data analysis and software development. I build end-to-end analytics projects and production-ready applications using real datasets, real systems, and real client work.
 
 ## Featured Projects
 
-### Olist SQL Business Intelligence
-End-to-end analysis of **100k+ real Brazilian e-commerce orders** across business performance, customer behaviour, seller quality, logistics, and payments.
+### 1) Olist SQL Business Intelligence
+End-to-end business intelligence project analysing **100k+ real Brazilian e-commerce orders** across business performance, customer behaviour, seller quality, logistics, payments, and product intelligence.
 
 - Built using **Microsoft SQL Server**
 - Developed structured analysis workflows across 9 relational tables
-- Extended with **Power BI, Excel, and R** for reporting, validation, and business insights
-- Covers revenue (GMV), customer patterns, seller performance, and operational metrics
+- Extended with **Power BI, Excel, and R** for reporting, validation, and business insight generation
+- Covers GMV/revenue analysis, customer patterns, seller performance, and operational metrics
 
-🔗 https://github.com/steven2512/olist-sql-business-intelligence
+🔗 [Repository](https://github.com/steven2512/olist-sql-business-intelligence)
 
 ---
 
-### Running Robot
+### 2) Dai Phat Phat Corporate Website
+End-to-end delivery of a real-world corporate website for a Vietnamese manufacturer, covering design, technical setup, deployment, and ongoing maintenance.
+
+- Built and configured the site using **WordPress**, custom **CSS**, **JavaScript**, and plugin-based functionality
+- Delivered end-to-end setup including **domain configuration**, **hosting**, **SMTP/email setup**, site structure, and maintenance workflow
+- Designed the visual direction, content layout, page structure, and blog/news content publishing system across company profile, facilities, products, news, and contact pages
+- Supported a real operating business website with public-facing product catalog, partner/company presentation, and contact/service flows
+
+🔗 [Website](https://daiphatphat.com)
+
+---
+
+### 3) Running Robot
 Cross-platform mobile application built from scratch and designed for production release.
 
 - Built with **Flutter (Dart)**
-- Backend powered by **Firebase, Firestore, and Cloud Functions**
-- Includes authentication, user progress tracking, structured lesson flows, and interactive logic
+- Backend powered by **Firebase**, **Firestore**, and **Cloud Functions**
+- Includes authentication, user progress tracking, structured lesson flows, and interactive app logic
 - Designed as a full-stack, release-ready mobile product
 
-🔗 https://github.com/steven2512/ai-learning-lesson-app
+🔗 [Repository](https://github.com/steven2512/ai-learning-lesson-app)
 
 ---
 
 ## Additional Projects (Private)
 
 ### Electronic Voting Web App
-- Full-stack web application built in a team of 5  
-- **Scrum Master and main backend developer**
-- Built backend systems using **Node.js, Express, and PostgreSQL**
+- Full-stack web application built in a team of 5
+- Worked as **Scrum Master** and **main backend developer**
+- Built backend systems using **Node.js**, **Express**, and **PostgreSQL**
 - Designed APIs, authentication, voting logic, and results processing
 - Managed sprint workflow using **Jira**
 
@@ -48,22 +58,26 @@ Cross-platform mobile application built from scratch and designed for production
 
 ## Experience
 
-Worked with organisations including:
+I also bring real-world experience from roles with organisations including:
+
 - **Ernst & Young (EY)**
 - **Department of Education**
 - **HOBAN / University of Melbourne**
 
-Experience includes data collection, validation, reporting, systems support, and working with structured operational data in high-pressure environments.
+My work across these roles has involved data collection, validation, reporting accuracy, systems support, structured operational workflows, and working under pressure in live environments.
 
 ---
 
 ## Tech Stack
 
 ### Data & Analytics
-- SQL (Microsoft SQL Server, PostgreSQL, Oracle)
-- Power BI (Power Query, DAX, data modelling)
-- Excel (advanced analysis, reporting, dashboards)
-- R (statistical analysis)
+- SQL
+- Microsoft SQL Server
+- PostgreSQL
+- Oracle
+- Power BI
+- Excel
+- R
 - Python
 
 ### Development
@@ -71,17 +85,26 @@ Experience includes data collection, validation, reporting, systems support, and
 - JavaScript / TypeScript
 - React
 - Node.js / Express
-- PostgreSQL
+- WordPress
+- HTML / CSS
 - Firebase / Firestore / Cloud Functions
 - Git / GitHub
 - Jira
 
 ---
 
-## Connect
-- LinkedIn: https://www.linkedin.com/in/nguyenduong251202  
-- GitHub: https://github.com/steven2512  
+## Current Focus
+- Building stronger end-to-end analytics projects
+- Improving business-facing dashboards and reporting
+- Deepening SQL and Power BI capability
+- Continuing to ship production-ready applications
 
 ---
 
-*Open to Data Analyst, Business Intelligence, and any Full-stack, Front-end, Back-end developer roles*
+## Connect
+- LinkedIn: [linkedin.com/in/nguyenduong251202](https://www.linkedin.com/in/nguyenduong251202)
+- GitHub: [github.com/steven2512](https://github.com/steven2512)
+
+---
+
+*Open to Data Analyst, Business Intelligence, and data-focused software roles.*
