@@ -16,7 +16,7 @@ End-to-end business intelligence project analysing **100k+ real Brazilian e-comm
 
 ---
 
-### 2) Dai Phat Phat Corporate Website
+### 2) Dai Phat Phat International Company Website
 End-to-end delivery of a real-world corporate website for a Vietnamese manufacturer, covering design, technical setup, deployment, and ongoing maintenance.
 
 - Built and configured the site using **WordPress**, custom **CSS**, **JavaScript**, and plugin-based functionality
